@@ -19,8 +19,8 @@ SKILL.md                                  入口、工作模式与按需读取�
 agents/openai.yaml                        Codex 界面配置
 references/workflow-routing.md            AI 任务分类与项目侦察
 references/git-branch-policy.md           Git 分支与未提交改动规则
-references/ai-method-design-space.md      AI 方法优化维度
-references/ai-method-reasoning.md         直觉、经验与数学推理的选择
+references/ai-method-design-space.md      设计优化方法的空间
+references/ai-method-reasoning.md         方法判断与推理
 references/literature-search.md           AI 文献检索与公平比较
 references/experiment-reproducibility.md  实验与复现
 references/failure-recovery.md            失败诊断与迭代

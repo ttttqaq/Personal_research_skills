@@ -18,7 +18,7 @@ description: "用于人工智能领域科研代码和方法改进：按需结合
 
 1. 先按 [工作模式路由](references/workflow-routing.md) 了解项目、当前请求、Git 状态和已有实验结果。仅讨论方案时不必为此创建分支。
 2. 判断改动是否可能改变方法机制或实验结论。方法性实现遵循 [Git 分支规则](references/git-branch-policy.md)；工程性小改动通常在当前分支完成。
-3. 设计方案时从 [AI 方法设计空间](references/ai-method-design-space.md) 选取与当前瓶颈有关的方向，并按 [AI 方法判断与推理](references/ai-method-reasoning.md) 灵活选择直觉、经验或数学分析的起点。
+3. 设计方案时从 [设计优化方法的空间](references/ai-method-design-space.md) 选取与当前瓶颈有关的方向，并按 [方法判断与推理](references/ai-method-reasoning.md) 灵活选择直觉、经验或数学分析的起点。
 4. 遇到难以判断的方向或用户要求时，按 [文献检索规则](references/literature-search.md) 核对相关研究；需要验证时按 [实验与复现规则](references/experiment-reproducibility.md) 设计实验。
 5. 用户反馈效果不佳或要求重做时，按 [失败恢复规则](references/failure-recovery.md) 排查原因和处理分支。
 6. 区分假设、理论支持与实验观察；只有公平可比的证据才能支持超过 SOTA 的表述。
