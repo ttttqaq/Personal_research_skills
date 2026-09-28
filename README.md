@@ -1,6 +1,6 @@
-<<<<<<< HEAD
 # Research Method Engineering
 
+个人的科研代码 skills。
 这是一个用于 Codex 的科研代码与方法改进 skill，名称为 `research-method-engineering`。
 
 ## 能做什么
@@ -66,7 +66,5 @@ $research-method-engineering 请分析当前模型的损失函数改进方案，
 - 用户已创建匹配分支时直接使用；
 - 只自动删除本地、未合并、未推送且被用户明确判断为失败的分支；
 - 失败实验的日志、checkpoint、配置和结果文件应保留。
-=======
 # Personal_research_skills
 个人的科研代码 skills
->>>>>>> origin/main
