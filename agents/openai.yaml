@@ -1,0 +1,7 @@
+interface:
+  display_name: "Research Method Engineering"
+  short_description: "Research method improvement and Git workflow"
+  default_prompt: "Use $research-method-engineering to analyze a research method change, manage its Git branch, and plan reproducible validation."
+
+policy:
+  allow_implicit_invocation: true
