@@ -44,7 +44,7 @@ experiment/hard-negatives__from_adaptive-loss
 ```bash
 skill_dir="${CODEX_HOME:-$HOME/.codex}/skills/research-method-engineering"
 mkdir -p "$skill_dir"
-rsync -a --delete --exclude='.git/' --exclude='README.md' ./ "$skill_dir/"
+rsync -a --delete --exclude='.git/' ./ "$skill_dir/"
 ```
 
 ## 使用
